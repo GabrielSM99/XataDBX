@@ -1,2 +1,3 @@
 # ClassificationSkin
-Algoritmo
+
+Algoritmo for classification skin disease
