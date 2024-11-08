@@ -1,3 +1,7 @@
-# ClassificationSkin
+# XataDB in Python
 
-Algoritmo for classification skin disease
+Algoritmo for ->
+
+- Popularize XataDB with random and faker libraries
+- Pagination 10 x 10
+- Basic unit tests
